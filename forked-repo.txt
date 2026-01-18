@@ -1,2 +1,3 @@
-curl -s https://api.github.com/repos/nyinyi24/mcino-Introduction-to-Git-and-GitHub | jq -r '.parent.clone_url'
-https://github.com/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub.git
+curl -s https://api.github.com/repos/nyinyi24/mcino-Introduction-to-Git-and-GitHub | jq -r '.parent.full_name'
+ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub
+
