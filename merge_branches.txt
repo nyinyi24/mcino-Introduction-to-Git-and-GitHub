@@ -1,0 +1,6 @@
+git checkout main
+git merge bug-fix-typo
+M       README.md
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+Already up to date.
